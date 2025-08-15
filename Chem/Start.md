@@ -8,10 +8,7 @@ Alex Grigoriadis
 ## Table of Contents
 
 
-----------
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMwMDE1MDQsLTEyNDU2MjMzOThdfQ
-==
+eyJoaXN0b3J5IjpbLTE4MTYxODQ5NzAsLTEzMDMwMDE1MDQsLT
+EyNDU2MjMzOThdfQ==
 -->
