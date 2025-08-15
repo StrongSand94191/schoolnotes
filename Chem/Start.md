@@ -6,9 +6,7 @@ Alex Grigoriadis
 \- Randall Munroe
 
 ## Table of Contents
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYxODQ5NzAsLTEzMDMwMDE1MDQsLT
+eyJoaXN0b3J5IjpbLTEyNDU2MjMzOTgsLTEzMDMwMDE1MDQsLT
 EyNDU2MjMzOThdfQ==
 -->
