@@ -3,7 +3,10 @@
 - Mostly small societies of 300 people or less - hunting and gathering, farming, many matriarchal, many animists
 - Language was very diverse, more than 20 language families and 400 languages
 
-- Southwest cu
+- Southwest cultures: Spread of maize cultivation from Mexico
+- Northwest cultures: Hunting and gathering, fishing
+- East: Hunting and gathering, fishing, farming permanent settlements, fur trade
+- Great Plains and Great Basin: Nomadic, tepees, buffalo hunters
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMDE5NDYxXX0=
+eyJoaXN0b3J5IjpbMTg2MjI0OTkwM119
 -->
