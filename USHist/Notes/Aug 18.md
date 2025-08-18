@@ -19,7 +19,9 @@
 | From Americas | From Europeans |
 |----|----|
 |beans, corn, potatoes, tomatoes, tobacco, syphilis|sugarcane, pigs, horses, wheels, iron tools, guns and diseases, smallpox, measles
+
+Columbus is significant enough to study because he was the first to discover America apart from the Native Americans and the Nords. He also did some pretty significant damage to the natives, killing and enslaving many. H
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjU1NTM5NCw1OTg0MzE4NTIsMTg2Mj
-I0OTkwM119
+eyJoaXN0b3J5IjpbLTEyODI1Nzc4MzMsLTMzMjU1NTM5NCw1OT
+g0MzE4NTIsMTg2MjI0OTkwM119
 -->
