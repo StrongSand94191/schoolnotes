@@ -20,8 +20,8 @@
 |----|----|
 |beans, corn, potatoes, tomatoes, tobacco, syphilis|sugarcane, pigs, horses, wheels, iron tools, guns and diseases, smallpox, measles
 
-Columbus is significant enough to study because he was the first to discover America apart from the Native Americans and the Nords. He also did some pretty significant damage to the natives, killing and enslaving many. His voyage had many consequences and is therefore important to study a
+Columbus is significant enough to study because he was the first to discover America apart from the Native Americans and the Nords. He also did some pretty significant damage to the natives, killing and enslaving many. His voyage had many consequences and is therefore important to study and understand when learning about US history.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzQ0NzkzMiwtMzMyNTU1Mzk0LDU5OD
-QzMTg1MiwxODYyMjQ5OTAzXX0=
+eyJoaXN0b3J5IjpbLTE0Nzc2Mjc2NDUsLTMzMjU1NTM5NCw1OT
+g0MzE4NTIsMTg2MjI0OTkwM119
 -->
