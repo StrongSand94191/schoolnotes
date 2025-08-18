@@ -12,7 +12,8 @@
 - Technology improvements
 - Religion
 - Protestant reformation
-- 
+- Expanding trade routes to Asia for slave trade/mercantilism/merchant capitalism
+- Development of nation-states that relied on trade and the church
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0OTI0MDIzLDE4NjIyNDk5MDNdfQ==
+eyJoaXN0b3J5IjpbNTk4NDMxODUyLDE4NjIyNDk5MDNdfQ==
 -->
