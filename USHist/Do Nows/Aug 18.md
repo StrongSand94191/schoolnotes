@@ -5,8 +5,9 @@
 
 I would bring it because I would be extremely bored with nothing to do. E-readers had a considerable impact on society because it allows reading many books in a tiny form factor.
 
-Water filter
--
+- Water filter
+
+I would bring this so I could drink the water there. Incredible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI4ODAzOTldfQ==
+eyJoaXN0b3J5IjpbMTE5ODM5Mzc4Ml19
 -->
