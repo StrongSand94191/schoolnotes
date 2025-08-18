@@ -9,7 +9,9 @@ I would bring it because I would be extremely bored with nothing to do. E-reader
 
 I would bring this so I could drink the water there. Incredible.
 
-- Six-p
+- Six-pack of beer
+
+I would bring this to drink away my sorrows. It's also very important to American culture today.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE0NTQ4OTYsMTE5ODM5Mzc4Ml19
+eyJoaXN0b3J5IjpbMTQ0MTA3OTc2MCwxMTk4MzkzNzgyXX0=
 -->
