@@ -14,6 +14,11 @@
 - Protestant reformation
 - Expanding trade routes to Asia for slave trade/mercantilism/merchant capitalism
 - Development of nation-states that relied on trade and the church
+
+| From Americas | From Europeans |
+|----|----|
+|beans|sugarcane
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NDMxODUyLDE4NjIyNDk5MDNdfQ==
+eyJoaXN0b3J5IjpbMTM2MjQxMzkwNSw1OTg0MzE4NTIsMTg2Mj
+I0OTkwM119
 -->
