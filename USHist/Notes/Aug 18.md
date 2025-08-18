@@ -22,8 +22,8 @@
 
 Columbus is significant enough to study because he was the first to discover America apart from the Native Americans and the Nords. He also did some pretty significant damage to the natives, killing and enslaving many. His voyage had many consequences and is therefore important to study and understand when learning about US history.
 
-
+I don't think we should recognize Columbus day because he was a murderer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMTE2ODk1LC0xNDc3NjI3NjQ1LC0zMz
-I1NTUzOTQsNTk4NDMxODUyLDE4NjIyNDk5MDNdfQ==
+eyJoaXN0b3J5IjpbLTEyMzY5Mzc5MjAsLTE0Nzc2Mjc2NDUsLT
+MzMjU1NTM5NCw1OTg0MzE4NTIsMTg2MjI0OTkwM119
 -->
