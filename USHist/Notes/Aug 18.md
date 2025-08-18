@@ -15,10 +15,11 @@
 - Expanding trade routes to Asia for slave trade/mercantilism/merchant capitalism
 - Development of nation-states that relied on trade and the church
 
+### Trade
 | From Americas | From Europeans |
 |----|----|
-|beans|sugarcane
+|beans, corn, potatoes, tomatoes, tobacco, syphilis|sugarcane, pigs, horses, wheels, iron tools, guns and diseases, smallpox, measles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjQxMzkwNSw1OTg0MzE4NTIsMTg2Mj
+eyJoaXN0b3J5IjpbLTMzMjU1NTM5NCw1OTg0MzE4NTIsMTg2Mj
 I0OTkwM119
 -->
