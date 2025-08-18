@@ -12,6 +12,7 @@
 - Technology improvements
 - Religion
 - Protestant reformation
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNjk1OTMyLDE4NjIyNDk5MDNdfQ==
+eyJoaXN0b3J5IjpbNjU0OTI0MDIzLDE4NjIyNDk5MDNdfQ==
 -->
