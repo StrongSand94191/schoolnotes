@@ -9,10 +9,11 @@ Significant figures is used to analyze a dataset of numbers for accuracy.
 3. Zeros after a decimal point are significant.
 4. Zeros and coefficients in scientific notation are significant.
 
-----------
+### Examples:
+1. 1234
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUxMTAzMjYsMTU4ODE4Mzg5MCwyMT
-A2NTU0MTY0XX0=
+eyJoaXN0b3J5IjpbMTExOTg4MDMzMSwxNTg4MTgzODkwLDIxMD
+Y1NTQxNjRdfQ==
 -->
