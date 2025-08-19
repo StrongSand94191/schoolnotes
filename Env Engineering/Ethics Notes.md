@@ -3,8 +3,15 @@
 
 I don't know because the question is very vague. Probably yes because the people's wellbeing is more important.
 
-
+7 ethical rules:
+1. Do no harm to people
+2. Protect the environment
+3. Be fair and just
+4. Balance profit with responsibility
+5. Tell the truth
+6. Think long-term
+7. Respect communities and cultures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA1MzQ0NjcsMjAxNDg4ODAzMywyNT
-k4MjUyMTNdfQ==
+eyJoaXN0b3J5IjpbMjU3NzQwNDU1LDIwMTQ4ODgwMzMsMjU5OD
+I1MjEzXX0=
 -->
