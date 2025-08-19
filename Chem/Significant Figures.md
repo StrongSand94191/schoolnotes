@@ -9,6 +9,7 @@ Significant figures is used to analyze a dataset of numbers for accuracy.
 3. Zeros after a decimal point are significant.
 4. Zeros and coefficients in scientific notation are significant.
 5. Leading zeros are not significant.
+6. Zeros in a large number without a decimal are not significant.
 
 ### Examples:
 1. 1234~~0~~ - 4 significant digits
@@ -18,6 +19,6 @@ Significant figures is used to analyze a dataset of numbers for accuracy.
 5. ~~0.00~~4 -  1 significant digit
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzIwNDcwNCwtNDQ1NjE2MDAyLDE1OD
-gxODM4OTAsMjEwNjU1NDE2NF19
+eyJoaXN0b3J5IjpbMTk4NTA1OTI2NywtMzMzMjA0NzA0LC00ND
+U2MTYwMDIsMTU4ODE4Mzg5MCwyMTA2NTU0MTY0XX0=
 -->
