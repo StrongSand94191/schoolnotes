@@ -15,9 +15,9 @@ Significant figures is used to analyze a dataset of numbers for accuracy.
 2. 5.008 - 4 signficiant digits
 3. 43.000 - 5 significant digits
 4. 8.0*~~10^3~~ - 2 significant digits
-5. ~~000~~102
+5. ~~000~~102 -  3 significant digits
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzM3MzMzMywxNTg4MTgzODkwLDIxMD
+eyJoaXN0b3J5IjpbLTQ0NTYxNjAwMiwxNTg4MTgzODkwLDIxMD
 Y1NTQxNjRdfQ==
 -->
