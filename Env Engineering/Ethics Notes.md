@@ -10,8 +10,8 @@ I don't know because the question is very vague. Probably yes because the people
 4. Balance profit with responsibility
 5. Tell the truth
 6. Think long-term
-7. Respect communities and cultures~~strikethrough text~~
+7. Respect communities and cultures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQwMzgwNjcsMjU3NzQwNDU1LDIwMT
-Q4ODgwMzMsMjU5ODI1MjEzXX0=
+eyJoaXN0b3J5IjpbMjU3NzQwNDU1LDI1Nzc0MDQ1NSwyMDE0OD
+g4MDMzLDI1OTgyNTIxM119
 -->
