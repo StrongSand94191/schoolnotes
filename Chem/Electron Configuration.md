@@ -25,8 +25,9 @@ Neutrons
 16 neutrons
 Period 3, 3 rings
 
+Joules = newtons/seconds
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM2NTA4NDYsLTEwNTM5NjkzNTYsNz
-c4NjYzNzIzLDc2ODI4OTA4MSwtODA5ODU1MjY3LC01OTczNTA0
-NzQsNDkxNzQzMjNdfQ==
+eyJoaXN0b3J5IjpbNTQ1MDA3MzUzLC0xMDUzOTY5MzU2LDc3OD
+Y2MzcyMyw3NjgyODkwODEsLTgwOTg1NTI2NywtNTk3MzUwNDc0
+LDQ5MTc0MzIzXX0=
 -->
