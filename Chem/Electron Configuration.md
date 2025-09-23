@@ -8,9 +8,9 @@ n =
 2. s, p
 3. s, p, d
 4. s, p, d, f
-5. 
-6. 
-7. 
+
+1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzM1MDQ3NCw0OTE3NDMyM119
+eyJoaXN0b3J5IjpbLTgwOTg1NTI2NywtNTk3MzUwNDc0LDQ5MT
+c0MzIzXX0=
 -->
