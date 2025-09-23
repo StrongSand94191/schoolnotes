@@ -24,8 +24,9 @@ Neutrons
 15 electrons
 16 neutrons
 Period 3, 3 rings
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM5NjkzNTYsNzc4NjYzNzIzLDc2OD
-I4OTA4MSwtODA5ODU1MjY3LC01OTczNTA0NzQsNDkxNzQzMjNd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MTM2NTA4NDYsLTEwNTM5NjkzNTYsNz
+c4NjYzNzIzLDc2ODI4OTA4MSwtODA5ODU1MjY3LC01OTczNTA0
+NzQsNDkxNzQzMjNdfQ==
 -->
