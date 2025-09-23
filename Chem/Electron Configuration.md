@@ -19,7 +19,13 @@ Electrrons
 Mass -
 Atomic number = 
 Neutrons
+
+15 protons
+15 electrons
+16 neutrons
+Period 3, 3 rings
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NjYzNzIzLDc2ODI4OTA4MSwtODA5OD
-U1MjY3LC01OTczNTA0NzQsNDkxNzQzMjNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTM5NjkzNTYsNzc4NjYzNzIzLDc2OD
+I4OTA4MSwtODA5ODU1MjY3LC01OTczNTA0NzQsNDkxNzQzMjNd
+fQ==
 -->
