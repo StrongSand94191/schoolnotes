@@ -11,8 +11,15 @@ n =
 
 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p
 
+APEMAN:
+Atomic number =
+Protons +
+Electrrons
 
+Mass -
+Atomic number = 
+Neutrons
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4Mjg5MDgxLC04MDk4NTUyNjcsLTU5Nz
-M1MDQ3NCw0OTE3NDMyM119
+eyJoaXN0b3J5IjpbNzc4NjYzNzIzLDc2ODI4OTA4MSwtODA5OD
+U1MjY3LC01OTczNTA0NzQsNDkxNzQzMjNdfQ==
 -->
