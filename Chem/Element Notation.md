@@ -10,9 +10,9 @@ Concluded that the nucleus is very small and desnse
 
 |Particle|Charge|Mass (kg)|Location|
 |--|--|--|--|
-|Electron|Negative|9.109e-31|  |
-|Proton|  |1.673e-27|  |
-|Neutron|  |1.675e-|  |
+|Electron|-1|9.109e-31|Electron cloud|
+|Proton|0|1.673e-27|Nucleus|
+|Neutron|  |1.675e-27|  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI0Mjk2MjIsMjEyODQ4NDAyNl19
+eyJoaXN0b3J5IjpbLTE5MDY2ODEzMDYsMjEyODQ4NDAyNl19
 -->
