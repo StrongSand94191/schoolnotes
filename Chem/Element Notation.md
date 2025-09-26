@@ -17,6 +17,10 @@ Concluded that the nucleus is very small and desnse
 Memorize prefixes from tera- to pico-
 
 Isotopes are atoms of the same element haivng different masses due to varying numbers of neutrons.
+
+Wavelength for visible light always ends in a power of -7
+Frequency for visible light always ends in a power of 14
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTg4MzM5MiwyMTI4NDg0MDI2XX0=
+eyJoaXN0b3J5IjpbNTA2NDIyMDgwLC01ODk4ODMzOTIsMjEyOD
+Q4NDAyNl19
 -->
