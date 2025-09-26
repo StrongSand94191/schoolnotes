@@ -15,6 +15,8 @@ Concluded that the nucleus is very small and desnse
 |Neutron|0|1.675e-27|Nucleus|
 
 Memorize prefixes from tera- to pico-
+
+Isotopes are atoms of the same element haivng different masses due to varying numbers of neutrons.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTU0OTM2LDIxMjg0ODQwMjZdfQ==
+eyJoaXN0b3J5IjpbLTU4OTg4MzM5MiwyMTI4NDg0MDI2XX0=
 -->
