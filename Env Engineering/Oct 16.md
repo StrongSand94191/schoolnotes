@@ -5,8 +5,8 @@ The Five Contaminants Are:
 4. pH
 5. Clorides
 
-Wa
+Water can become harmful above 250mg/L chloride
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc2MjEzMjAsNDYzMDU4MDgsNjE3MD
+eyJoaXN0b3J5IjpbLTE1MDczMzc0MTIsNDYzMDU4MDgsNjE3MD
 E3NjZdfQ==
 -->
