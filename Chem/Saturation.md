@@ -1,5 +1,5 @@
 Saturation is the amount of solute dissolved in a solution.
-Solubility is how much solute dis
+Solubility is how much solute dissolves in a given amount of solvent.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzg2MTQ4M119
+eyJoaXN0b3J5IjpbLTEzNjI2MDI0MDZdfQ==
 -->
