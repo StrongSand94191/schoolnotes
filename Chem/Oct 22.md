@@ -1,5 +1,5 @@
 O3 is ozone.
-The molar mass of ozone is 
+The molar mass of ozone is 48
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4NjEwMzExXX0=
+eyJoaXN0b3J5IjpbLTEyNTk3MjY5MDldfQ==
 -->
