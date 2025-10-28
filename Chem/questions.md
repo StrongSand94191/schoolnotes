@@ -14,15 +14,10 @@ Molar mass is a measurement of how many grams of a molecule are in a mole of it.
 289.262 g/mol
 
 5.  What is the molar mass of Potassium Iodide?
-
+292.9073 g/mol
 
 6.  What is the molar mass of Sodium Hydroxide?
-    
-
-  
-  
-  
-  
+25.00565 g
 
 7.  What is the molar mass of CuCl2 ?
     
@@ -42,5 +37,5 @@ Molar mass is a measurement of how many grams of a molecule are in a mole of it.
 
 1.  Raise your hand to get the questions looked over. If the teacher sees everything is correct your group may move on to the lab portion. Please make sure you are wearing aprons and goggles. However before you can get to the lab stations your group must draw what each ionic salt above would look like for the lewis dot structure. Your group must also determine the type of intermolecular force present.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjA2MzM4OF19
+eyJoaXN0b3J5IjpbNjM1NTg2NDYyLDIxMjYwNjMzODhdfQ==
 -->
