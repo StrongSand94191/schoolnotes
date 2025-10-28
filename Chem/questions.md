@@ -5,33 +5,16 @@ According to this picture Lithium has an atomic mass of 6.941 amu. The atomic ma
 Molar mass is a measurement of how many grams of a molecule are in a mole of it.
 
 2.  What is the molar mass of 1 mole of Calcium? (units: g/mol)
-   
 40.08 g/mol
 
-  
-  
-
 3.  What is the molar mass of 1 mole of Chlorine gas (Cl2)? (units: g/mol)
-    
-
 70.9 g/mol
 
-  
-
 4.  What is the molar mass of 1 mole of Calcium Chloride (CaCl2)?
-    
-
-110.98
-
-  
+289.262 g/mol
 
 5.  What is the molar mass of Potassium Iodide?
-    
 
-  
-  
-  
-  
 
 6.  What is the molar mass of Sodium Hydroxide?
     
@@ -59,5 +42,5 @@ Molar mass is a measurement of how many grams of a molecule are in a mole of it.
 
 1.  Raise your hand to get the questions looked over. If the teacher sees everything is correct your group may move on to the lab portion. Please make sure you are wearing aprons and goggles. However before you can get to the lab stations your group must draw what each ionic salt above would look like for the lewis dot structure. Your group must also determine the type of intermolecular force present.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg1MjI3NjJdfQ==
+eyJoaXN0b3J5IjpbMjEyNjA2MzM4OF19
 -->
