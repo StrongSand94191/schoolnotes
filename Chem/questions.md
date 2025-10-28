@@ -23,9 +23,11 @@ Molar mass is a measurement of how many grams of a molecule are in a mole of it.
 329.366 g/mol
 
 8.  What is the chemical nomenclature of the substance in question 7?
-Diiodine Carboxide
+Diiodine Carbo
+Copp
 
 9.  Raise your hand to get the questions looked over. If the teacher sees everything is correct your group may move on to the lab portion. Please make sure you are wearing aprons and goggles. However before you can get to the lab stations your group must draw what each ionic salt above would look like for the lewis dot structure. Your group must also determine the type of intermolecular force present.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTY0NzEzMiwyMTI2MDYzMzg4XX0=
+eyJoaXN0b3J5IjpbODEyOTc5NzYwLDIwNTU2NDcxMzIsMjEyNj
+A2MzM4OF19
 -->
