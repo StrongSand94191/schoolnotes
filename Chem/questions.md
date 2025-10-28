@@ -26,7 +26,9 @@ Molar mass is a measurement of how many grams of a molecule are in a mole of it.
 Copper Dichloride
 
 9.  Raise your hand to get the questions looked over. If the teacher sees everything is correct your group may move on to the lab portion. Please make sure you are wearing aprons and goggles. However before you can get to the lab stations your group must draw what each ionic salt above would look like for the lewis dot structure. Your group must also determine the type of intermolecular force present.
+
+Electrostatic force 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk5NDU4MiwxNDM0MzY5OTkzLDIwNT
-U2NDcxMzIsMjEyNjA2MzM4OF19
+eyJoaXN0b3J5IjpbLTEwMzQ1MjIxNjUsLTE5MTk5NDU4MiwxND
+M0MzY5OTkzLDIwNTU2NDcxMzIsMjEyNjA2MzM4OF19
 -->
