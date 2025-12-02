@@ -7,9 +7,11 @@
 	- Methyl orange turns red
 - Acids react with active metals, producing H2 (replacement reaction)
 	- Mg + 2HCl -> MgCl2 + H2(g)
-		- One mole of magnesium reacts with two moles of hydrochloric acid, forming two moles of magnesium chloride and two 
+		- One mole of magnesium reacts with two moles of hydrochloric acid, forming two moles of magnesium chloride and two moles of hydrogen gas.
 	- Zn + 2HCl -> ZnCl2 + H2(g)
+		- One mole of zinc reacts with two moles of hydrochloric acid, forming two moles of zinc chloride and two moles of hydrogen gas.
 	- Mg + H2SO4 -> MgSO4 + H2(g)
+		- One mole of magnesium reacts with
 - Acids react with carbonates
 - Acids neutralize bases
 - Strong acids are assumed to be 100% ionized in solution (good donors)
@@ -17,7 +19,7 @@
 - A single bond is a sigma bond
 - A double bond is a sigma pi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTcyNzAzOSw4NDk5MDk1MzIsNDk4Mj
+eyJoaXN0b3J5IjpbLTg5NjkyNDI5Nyw4NDk5MDk1MzIsNDk4Mj
 g2NzY0LDE0MDc5NjQzNTIsMTQyNDI4MjY2OSwyMDg0NzAzNjkx
 XX0=
 -->
