@@ -8,7 +8,7 @@
 - Acids react with active metals, producing H2
 	- Mg + 2HCl -> MgCl2 + H2(g)
 	- Zn + 2HCl -> ZnCl2 + H2(g)
-	- Mg + H2SO4 ->
+	- Mg + H2SO4 -> MgSO4 + H2(g)
 - Acids react with carbonates
 - Acids neutralize bases
 - Strong acids are assumed to be 100% ionized in solution (good donors)
@@ -16,6 +16,6 @@
 - A single bond is a sigma bond
 - A double bond is a sigma pi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTA1NjU1NSwxNDA3OTY0MzUyLDE0Mj
-QyODI2NjksMjA4NDcwMzY5MV19
+eyJoaXN0b3J5IjpbNDk4Mjg2NzY0LDE0MDc5NjQzNTIsMTQyND
+I4MjY2OSwyMDg0NzAzNjkxXX0=
 -->
