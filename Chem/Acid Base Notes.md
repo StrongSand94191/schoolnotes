@@ -19,8 +19,14 @@
 - Weak acids are usually less than 5% ionized in solution (bad donors)
 - A single bond is a sigma bond
 - A double bond is a sigma pi
+
+# Properties of Bases
+- Bases are proton acceptors
+- Bases have a pH greater than 7
+- Bases taste bitter
+- Bases affect indicators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDI1MTAwNSwxNTg5NDM0NTk3LDk3Nj
-k0NDUyMyw4NDk5MDk1MzIsNDk4Mjg2NzY0LDE0MDc5NjQzNTIs
-MTQyNDI4MjY2OSwyMDg0NzAzNjkxXX0=
+eyJoaXN0b3J5IjpbLTE0OTAzMTUzMjMsMTU3MDI1MTAwNSwxNT
+g5NDM0NTk3LDk3Njk0NDUyMyw4NDk5MDk1MzIsNDk4Mjg2NzY0
+LDE0MDc5NjQzNTIsMTQyNDI4MjY2OSwyMDg0NzAzNjkxXX0=
 -->
