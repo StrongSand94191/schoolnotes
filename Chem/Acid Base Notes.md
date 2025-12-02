@@ -5,7 +5,7 @@
 - Acids affect indicators
 	- Blue litmus turns red
 	- Methyl orange turns red
-- Acids react with active metals, producing H2
+- Acids react with active metals, producing H2 (replacement reaction)
 	- Mg + 2HCl -> MgCl2 + H2(g)
 	- Zn + 2HCl -> ZnCl2 + H2(g)
 	- Mg + H2SO4 -> MgSO4 + H2(g)
@@ -16,6 +16,6 @@
 - A single bond is a sigma bond
 - A double bond is a sigma pi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4Mjg2NzY0LDE0MDc5NjQzNTIsMTQyND
-I4MjY2OSwyMDg0NzAzNjkxXX0=
+eyJoaXN0b3J5IjpbODQ5OTA5NTMyLDQ5ODI4Njc2NCwxNDA3OT
+Y0MzUyLDE0MjQyODI2NjksMjA4NDcwMzY5MV19
 -->
