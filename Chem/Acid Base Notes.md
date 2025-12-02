@@ -25,8 +25,12 @@
 - Bases have a pH greater than 7
 - Bases taste bitter
 - Bases affect indicators
+	- Red litmus turns blue
+	- Phenolphtalein turns purple
+- Solutions of bases feel slippery
+- Bases neutralize acids
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAzMTUzMjMsMTU3MDI1MTAwNSwxNT
-g5NDM0NTk3LDk3Njk0NDUyMyw4NDk5MDk1MzIsNDk4Mjg2NzY0
-LDE0MDc5NjQzNTIsMTQyNDI4MjY2OSwyMDg0NzAzNjkxXX0=
+eyJoaXN0b3J5IjpbMTkyODU3Njc2OSwxNTcwMjUxMDA1LDE1OD
+k0MzQ1OTcsOTc2OTQ0NTIzLDg0OTkwOTUzMiw0OTgyODY3NjQs
+MTQwNzk2NDM1MiwxNDI0MjgyNjY5LDIwODQ3MDM2OTFdfQ==
 -->
