@@ -14,12 +14,13 @@
 		- One mole of magnesium reacts with one mole of sulfuric acid, forming one mole of magnesium sulfate and one mole of hydrogen gas
 - Acids react with carbonates
 - Acids neutralize bases
+	- Neutralization reactions always produce a salt and water
 - Strong acids are assumed to be 100% ionized in solution (good donors)
 - Weak acids are usually less than 5% ionized in solution (bad donors)
 - A single bond is a sigma bond
 - A double bond is a sigma pi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTQzNDU5Nyw5NzY5NDQ1MjMsODQ5OT
-A5NTMyLDQ5ODI4Njc2NCwxNDA3OTY0MzUyLDE0MjQyODI2Njks
-MjA4NDcwMzY5MV19
+eyJoaXN0b3J5IjpbMTU3MDI1MTAwNSwxNTg5NDM0NTk3LDk3Nj
+k0NDUyMyw4NDk5MDk1MzIsNDk4Mjg2NzY0LDE0MDc5NjQzNTIs
+MTQyNDI4MjY2OSwyMDg0NzAzNjkxXX0=
 -->
