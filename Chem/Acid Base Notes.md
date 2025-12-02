@@ -11,7 +11,7 @@
 	- Zn + 2HCl -> ZnCl2 + H2(g)
 		- One mole of zinc reacts with two moles of hydrochloric acid, forming one mole of zinc chloride and one mole of hydrogen gas.
 	- Mg + H2SO4 -> MgSO4 + H2(g)
-		- One mole of magnesium reacts with two moles of sulfur 
+		- One mole of magnesium reacts with one mole of sulfuric 
 - Acids react with carbonates
 - Acids neutralize bases
 - Strong acids are assumed to be 100% ionized in solution (good donors)
@@ -19,7 +19,7 @@
 - A single bond is a sigma bond
 - A double bond is a sigma pi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2OTQ0NTIzLDg0OTkwOTUzMiw0OTgyOD
-Y3NjQsMTQwNzk2NDM1MiwxNDI0MjgyNjY5LDIwODQ3MDM2OTFd
-fQ==
+eyJoaXN0b3J5IjpbLTExNzUzMjczNTQsOTc2OTQ0NTIzLDg0OT
+kwOTUzMiw0OTgyODY3NjQsMTQwNzk2NDM1MiwxNDI0MjgyNjY5
+LDIwODQ3MDM2OTFdfQ==
 -->
