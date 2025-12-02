@@ -1,4 +1,5 @@
-H+(aq) + Cl-(aq)
+H+Cl- -> H+(aq) + Cl-(aq)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NTQxNDAwLC0yMDI4MTUwMDQ0XX0=
+eyJoaXN0b3J5IjpbLTE5NzM3NjU1OTYsLTIwMjgxNTAwNDRdfQ
+==
 -->
