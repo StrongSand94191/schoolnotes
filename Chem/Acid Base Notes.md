@@ -10,6 +10,8 @@
 - Acids neutralize bases
 - Strong acids are assumed to be 100% ionized in solution (good donors)
 - Weak acids are usually less than 5% ionized in solution (bad donors)
+- A signl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDI4MjY2OSwyMDg0NzAzNjkxXX0=
+eyJoaXN0b3J5IjpbLTExNTkxNTU5NzIsMTQyNDI4MjY2OSwyMD
+g0NzAzNjkxXX0=
 -->
